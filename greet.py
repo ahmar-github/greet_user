@@ -1,1 +1,2 @@
-"print('Hello, welcome to our app!')" 
+name = input("Enter your name: ")
+print(f"Hello, {name}! Welcome to our updated app.")
